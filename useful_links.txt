@@ -1,0 +1,2 @@
+https://groupprops.subwiki.org/wiki/Expected_number_of_cycles_of_permutation_equals_harmonic_number_of_degree
+https://math.stackexchange.com/questions/973422/expected-number-of-cycles-in-permutation
